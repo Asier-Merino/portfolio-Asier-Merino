@@ -11,7 +11,7 @@ detailed_page_homepage_content: true
 
 <div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <h5 style="margin: 0;">Euskera</h5>
-  <img src="/images/eusk.png" alt="Euskera" width="80" style="border: 3px solid white; border-radius: 4px; margin-left: 2.5rem;">
+  <img src="images/eusk.png" alt="Euskera" width="80" style="border: 3px solid white; border-radius: 4px; margin-left: 2.5rem;">
 </div>
 
 Nivel medio-avanzado <b>(B2)</b> - <a href="https://doloresibarruribhi.eus//" target="_blank">Instituto Dolores Ibarruri</a>
@@ -20,7 +20,7 @@ Nivel medio-avanzado <b>(B2)</b> - <a href="https://doloresibarruribhi.eus//" ta
 
 <div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <h5 style="margin: 0;">Inglés</h5>
-  <img src="/images/uk.png" alt="Inglés" width="80" style="border: 3px solid white; border-radius: 4px; margin-left: 2.5rem;">
+  <img src="images/uk.png" alt="Inglés" width="80" style="border: 3px solid white; border-radius: 4px; margin-left: 2.5rem;">
 </div>
 
 Nivel medio-avanzado <b>(B2)</b> - <a href="https://eoigetxoheo.hezkuntza.net/es/" target="_blank">Escuela de Idiomas de Getxo</a>

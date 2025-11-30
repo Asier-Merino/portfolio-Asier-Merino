@@ -19,6 +19,6 @@ Gracias a esto adquirí experiencia práctica en un **entorno profesional de alt
 
 <br>
 <a href="https://www.metrobilbao.eus/" target="_blank">
-  <img src="/images/metro-bilbao.jpg" alt="Metro Bilbao" width="600" style="border: 8px solid white; border-radius: 4px;">
+  <img src="images/metro-bilbao.jpg" alt="Metro Bilbao" width="600" style="border: 8px solid white; border-radius: 4px;">
 </a>
 <br>
