@@ -15,8 +15,8 @@ header_menu: true
 
 ##### CV Preview
 <br>
-<iframe src="/cv/cv-Asier-Merino.pdf" width="100%" height="600px" style="border:none;">
-  <p>Your browser cannot display the PDF. <a href="/cv/cv-Asier-Merino.pdf">Download it here</a>.</p>
+<iframe src="" width="100%" height="600px" style="border:none;">
+  <p>Your browser cannot display the PDF. <a href="">Download it here</a>.</p>
 </iframe>
 
 
